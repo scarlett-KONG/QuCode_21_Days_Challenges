@@ -1,4 +1,4 @@
-1. Superposition
+# 1. Superposition
 
 General idea: Superposition means multiple states or waves can combine into one.
 Mathematical view : superposition is the linearity combination of the vectors in a vector space.
@@ -10,7 +10,7 @@ Quantum Superposition: A quantum system can exist in multiple states at once unt
 
 Superposition allows systems (waves or quantum states) to interact in ways that produce new combined outcomes, not just a simple sum.
 
-2. Wave-Particle Duality
+# 2. Wave-Particle Duality
 
 Core idea: Light and matter can behave as both particles and waves depending on the experiment.
 
